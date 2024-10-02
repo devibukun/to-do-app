@@ -46,7 +46,7 @@ function createTaskElement(task){
         taskList.removeChild(listItem);
         saveTask();
     })
-}+
+}
 
 function saveTask(){
     let tasks = [];
